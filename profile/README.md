@@ -1,0 +1,3 @@
+[![Engenere](https://storage.googleapis.com/engenere/Engenere-Logo2.webp)](#)
+## Afinal, quem somos nós?
+A inovação sempre esteve em nosso estilo de vida. Fundada por dois amigos [@netosjb](https://github.com/netosjb) e [@felipemotter](https://github.com/felipemotter), a Engenere foi criada a partir da ideia que tudo pode ser aprimorado de forma constante e organizada através da tecnologia. Com o Odoo e outras ferramentas Open Source, buscamos entregar ao nosso cliente confiança e informação, integrando todo seu ecossistema de forma inteligente e automatizada. Sempre nos adaptando às necessidades do negócio.
